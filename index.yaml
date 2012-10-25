@@ -1,0 +1,5 @@
+indexes:
+- kind: Episode
+  properties:
+  - name: number
+    direction: asc
